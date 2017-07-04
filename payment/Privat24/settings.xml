@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>
+		Privat24
+	</name>
+	<settings>
+		<variable>privat24_merchantid</variable>
+		<name>ID мерчанта</name>
+	</settings>
+	<settings>
+		<variable>privat24_pass</variable>
+		<name>Пароль мерчанта</name>
+	</settings>
+</module>

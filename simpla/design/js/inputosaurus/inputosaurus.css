@@ -1,0 +1,7 @@
+#product .block .inputosaurus-container { background: #fff; border: 1px solid #d0d0d0; margin: 0 5px 0 0; padding: 3px; display: inline-block; cursor: text; font-size: 13px; max-height: 300px; overflow: hidden; overflow-y: auto; width: 430px; }
+ #product .block .inputosaurus-container li { display: block; float: left; overflow: hidden; margin: 2px 2px 0; padding: 2px 3px; white-space: nowrap; overflow: hidden; -o-text-overflow: ellipsis; -ms-text-overflow: ellipsis; text-overflow: ellipsis; background: #f3f3f3; border: #d0d0d0 solid 1px; color: #4d4d4d; line-height: 20px; cursor: default; width: auto; clear: none; }
+#product .block .inputosaurus-container li.inputosaurus-selected { background-color: #bdd6eb; }
+#product .block .inputosaurus-container li a { font-size: 14px; color: #a9a9a9; padding: 1px; text-decoration: none; outline: none; }
+#product .block .inputosaurus-container .inputosaurus-input { border: none; background-color: #fff; margin-top: 3px; }
+#product .block .inputosaurus-container .inputosaurus-input input { border: none; height: 23px; font-size: 13px; line-height: 20px; color: #555; margin: 0; outline: none; padding: 0 0 1px 1px; width: 25px; }
+#product .block .inputosaurus-input-hidden { display: none; }
